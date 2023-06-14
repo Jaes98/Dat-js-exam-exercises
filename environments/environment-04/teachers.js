@@ -16,3 +16,4 @@ const teachers = [
         email: "julia.kim@email.com"
     }
 ];
+export { teachers }
